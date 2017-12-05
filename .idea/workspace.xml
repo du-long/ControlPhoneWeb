@@ -6,7 +6,11 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f432768-0d6e-4007-b1d6-02ebfd143b55" name="Default" comment="" />
+    <list default="true" id="2f432768-0d6e-4007-b1d6-02ebfd143b55" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nginx-rtmp-win32-1.2.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Config.Properties" afterPath="$PROJECT_DIR$/src/Config.Properties" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,21 +21,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="VideoServlet.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/dulong/video/servlet/VideoServlet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="JpushClientUtil.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/dulong/video/utils/JpushClientUtil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+            <state relative-caret-position="401">
+              <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -40,15 +34,25 @@
       <file leaf-file-name="OnlineServlet.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/dulong/video/servlet/OnlineServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="638">
-              <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+            <state relative-caret-position="148">
+              <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ControlPhoneWeb_war_exploded.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ControlPhoneWeb_war_exploded.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/artifacts/ControlPhoneWeb_war_exploded.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="vcs.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -82,7 +86,49 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+              <folding>
+                <marker date="1512463991820" expanded="true" signature="56740:56757" ph="..." />
+                <marker date="1512463991820" expanded="true" signature="56740:56775" ph="..." />
+                <marker date="1512463991820" expanded="true" signature="56740:56788" ph="..." />
+                <marker date="1512463991820" expanded="true" signature="56740:56803" ph="..." />
+                <marker date="1512463991820" expanded="true" signature="56838:59382" ph="..." />
+                <marker date="1512463991820" expanded="true" signature="56851:59367" ph="..." />
+                <marker date="1512463991820" expanded="true" signature="56905:57305" ph="..." />
+                <marker date="1512463991820" expanded="true" signature="56924:57290" ph="..." />
+                <marker date="1512463991820" expanded="true" signature="57053:57270" ph="..." />
+                <marker date="1512463991820" expanded="true" signature="57093:57236" ph="..." />
+                <marker date="1512463991820" expanded="true" signature="57114:57214" ph="..." />
+                <marker date="1512463991820" expanded="true" signature="57355:57661" ph="..." />
+                <marker date="1512463991820" expanded="true" signature="57374:57646" ph="..." />
+                <marker date="1512463991820" expanded="true" signature="57448:57626" ph="..." />
+                <marker date="1512463991820" expanded="true" signature="57488:57592" ph="..." />
+                <marker date="1512463991820" expanded="true" signature="57509:57570" ph="..." />
+                <marker date="1512463991820" expanded="true" signature="57712:57977" ph="..." />
+                <marker date="1512463991820" expanded="true" signature="57731:57962" ph="..." />
+                <marker date="1512463991820" expanded="true" signature="57764:57942" ph="..." />
+                <marker date="1512463991820" expanded="true" signature="57804:57908" ph="..." />
+                <marker date="1512463991820" expanded="true" signature="57825:57886" ph="..." />
+                <marker date="1512463991820" expanded="true" signature="58020:58326" ph="..." />
+                <marker date="1512463991820" expanded="true" signature="58039:58311" ph="..." />
+                <marker date="1512463991820" expanded="true" signature="58113:58291" ph="..." />
+                <marker date="1512463991820" expanded="true" signature="58153:58257" ph="..." />
+                <marker date="1512463991820" expanded="true" signature="58174:58235" ph="..." />
+                <marker date="1512463991820" expanded="true" signature="58377:58695" ph="..." />
+                <marker date="1512463991820" expanded="true" signature="58396:58680" ph="..." />
+                <marker date="1512463991820" expanded="true" signature="58482:58660" ph="..." />
+                <marker date="1512463991820" expanded="true" signature="58522:58626" ph="..." />
+                <marker date="1512463991820" expanded="true" signature="58543:58604" ph="..." />
+                <marker date="1512463991820" expanded="true" signature="58730:59036" ph="..." />
+                <marker date="1512463991820" expanded="true" signature="58749:59021" ph="..." />
+                <marker date="1512463991820" expanded="true" signature="58823:59001" ph="..." />
+                <marker date="1512463991820" expanded="true" signature="58863:58967" ph="..." />
+                <marker date="1512463991820" expanded="true" signature="58884:58945" ph="..." />
+                <marker date="1512463991820" expanded="true" signature="59088:59353" ph="..." />
+                <marker date="1512463991820" expanded="true" signature="59107:59338" ph="..." />
+                <marker date="1512463991820" expanded="true" signature="59140:59318" ph="..." />
+                <marker date="1512463991820" expanded="true" signature="59180:59284" ph="..." />
+                <marker date="1512463991820" expanded="true" signature="59201:59262" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -90,18 +136,8 @@
       <file leaf-file-name="CharsetFilter.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/dulong/video/utils/CharsetFilter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="638">
-              <caret line="29" column="28" lean-forward="false" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="28" />
+            <state relative-caret-position="167">
+              <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -111,13 +147,26 @@
         <entry file="file://$PROJECT_DIR$/src/Config.Properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="22">
-              <caret line="1" column="37" lean-forward="false" selection-start-line="1" selection-start-column="37" selection-end-line="1" selection-end-column="37" />
+              <caret line="1" column="37" lean-forward="true" selection-start-line="1" selection-start-column="37" selection-end-line="1" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Config.Properties" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/out/artifacts/ControlPhoneWeb_war_exploded/WEB-INF/classes/Config.Properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="1" column="37" lean-forward="true" selection-start-line="1" selection-start-column="37" selection-end-line="1" selection-end-column="37" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -131,6 +180,10 @@
         <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/web/WEB-INF/Config.Properties" />
         <option value="$PROJECT_DIR$/src/com/dulong/video/servlet/OnlineServlet.java" />
+        <option value="$PROJECT_DIR$/src/com/dulong/video/servlet/VideoServlet.java" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/src/Config.Properties" />
+        <option value="$PROJECT_DIR$/out/artifacts/ControlPhoneWeb_war_exploded/WEB-INF/classes/Config.Properties" />
       </list>
     </option>
   </component>
@@ -168,6 +221,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -177,43 +234,12 @@
             </path>
             <path>
               <item name="ControlPhoneWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ControlPhoneWeb" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ControlPhoneWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ControlPhoneWeb" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ControlPhoneWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ControlPhoneWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ControlPhoneWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ControlPhoneWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ControlPhoneWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ControlPhoneWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ControlPhoneWeb" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -227,15 +253,16 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\IdeaProjects\ControlPhoneWeb\src" />
-      <recent name="E:\IdeaProjects\ControlPhoneWeb\web\WEB-INF" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\github\ControlPhoneWeb" />
       <recent name="E:\IdeaProjects\ControlPhoneWeb\web\WEB-INF" />
       <recent name="E:\IdeaProjects\ControlPhoneWeb\src" />
       <recent name="E:\IdeaProjects\ControlPhoneWeb\src\com\dulong\video" />
       <recent name="E:\IdeaProjects\ControlPhoneWeb" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\IdeaProjects\ControlPhoneWeb\src" />
+      <recent name="E:\IdeaProjects\ControlPhoneWeb\web\WEB-INF" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -421,17 +448,19 @@
       <updated>1512460875590</updated>
       <workItem from="1512460880529" duration="1461000" />
       <workItem from="1512463221455" duration="62000" />
+      <workItem from="1512463589960" duration="531000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1523000" />
+    <option name="totallyTimeSpent" value="2054000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1460" height="876" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -439,12 +468,12 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32974428" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32884097" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37714285" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38285714" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -457,7 +486,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -473,6 +501,128 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/dulong/video/servlet/VideoServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dulong/video/utils/JpushClientUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dulong/video/servlet/OnlineServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1512463991820" expanded="true" signature="56740:56757" ph="..." />
+            <marker date="1512463991820" expanded="true" signature="56740:56775" ph="..." />
+            <marker date="1512463991820" expanded="true" signature="56740:56788" ph="..." />
+            <marker date="1512463991820" expanded="true" signature="56740:56803" ph="..." />
+            <marker date="1512463991820" expanded="true" signature="56838:59382" ph="..." />
+            <marker date="1512463991820" expanded="true" signature="56851:59367" ph="..." />
+            <marker date="1512463991820" expanded="true" signature="56905:57305" ph="..." />
+            <marker date="1512463991820" expanded="true" signature="56924:57290" ph="..." />
+            <marker date="1512463991820" expanded="true" signature="57053:57270" ph="..." />
+            <marker date="1512463991820" expanded="true" signature="57093:57236" ph="..." />
+            <marker date="1512463991820" expanded="true" signature="57114:57214" ph="..." />
+            <marker date="1512463991820" expanded="true" signature="57355:57661" ph="..." />
+            <marker date="1512463991820" expanded="true" signature="57374:57646" ph="..." />
+            <marker date="1512463991820" expanded="true" signature="57448:57626" ph="..." />
+            <marker date="1512463991820" expanded="true" signature="57488:57592" ph="..." />
+            <marker date="1512463991820" expanded="true" signature="57509:57570" ph="..." />
+            <marker date="1512463991820" expanded="true" signature="57712:57977" ph="..." />
+            <marker date="1512463991820" expanded="true" signature="57731:57962" ph="..." />
+            <marker date="1512463991820" expanded="true" signature="57764:57942" ph="..." />
+            <marker date="1512463991820" expanded="true" signature="57804:57908" ph="..." />
+            <marker date="1512463991820" expanded="true" signature="57825:57886" ph="..." />
+            <marker date="1512463991820" expanded="true" signature="58020:58326" ph="..." />
+            <marker date="1512463991820" expanded="true" signature="58039:58311" ph="..." />
+            <marker date="1512463991820" expanded="true" signature="58113:58291" ph="..." />
+            <marker date="1512463991820" expanded="true" signature="58153:58257" ph="..." />
+            <marker date="1512463991820" expanded="true" signature="58174:58235" ph="..." />
+            <marker date="1512463991820" expanded="true" signature="58377:58695" ph="..." />
+            <marker date="1512463991820" expanded="true" signature="58396:58680" ph="..." />
+            <marker date="1512463991820" expanded="true" signature="58482:58660" ph="..." />
+            <marker date="1512463991820" expanded="true" signature="58522:58626" ph="..." />
+            <marker date="1512463991820" expanded="true" signature="58543:58604" ph="..." />
+            <marker date="1512463991820" expanded="true" signature="58730:59036" ph="..." />
+            <marker date="1512463991820" expanded="true" signature="58749:59021" ph="..." />
+            <marker date="1512463991820" expanded="true" signature="58823:59001" ph="..." />
+            <marker date="1512463991820" expanded="true" signature="58863:58967" ph="..." />
+            <marker date="1512463991820" expanded="true" signature="58884:58945" ph="..." />
+            <marker date="1512463991820" expanded="true" signature="59088:59353" ph="..." />
+            <marker date="1512463991820" expanded="true" signature="59107:59338" ph="..." />
+            <marker date="1512463991820" expanded="true" signature="59140:59318" ph="..." />
+            <marker date="1512463991820" expanded="true" signature="59180:59284" ph="..." />
+            <marker date="1512463991820" expanded="true" signature="59201:59262" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dulong/video/utils/CharsetFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="29" column="28" lean-forward="false" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Config.Properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="31" lean-forward="true" selection-start-line="1" selection-start-column="31" selection-end-line="1" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/artifacts/ControlPhoneWeb_war_exploded.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/dulong/video/base/Constant.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -558,51 +708,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dulong/video/utils/CharsetFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Config.Properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="37" lean-forward="false" selection-start-line="1" selection-start-column="37" selection-end-line="1" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dulong/video/utils/JpushClientUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/out/artifacts/ControlPhoneWeb_war_exploded/WEB-INF/Config.Properties" />
     <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="638">
           <caret line="29" column="28" lean-forward="false" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dulong/video/servlet/OnlineServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -627,6 +737,104 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1512463991820" expanded="true" signature="56740:56757" ph="..." />
+            <marker date="1512463991820" expanded="true" signature="56740:56775" ph="..." />
+            <marker date="1512463991820" expanded="true" signature="56740:56788" ph="..." />
+            <marker date="1512463991820" expanded="true" signature="56740:56803" ph="..." />
+            <marker date="1512463991820" expanded="true" signature="56838:59382" ph="..." />
+            <marker date="1512463991820" expanded="true" signature="56851:59367" ph="..." />
+            <marker date="1512463991820" expanded="true" signature="56905:57305" ph="..." />
+            <marker date="1512463991820" expanded="true" signature="56924:57290" ph="..." />
+            <marker date="1512463991820" expanded="true" signature="57053:57270" ph="..." />
+            <marker date="1512463991820" expanded="true" signature="57093:57236" ph="..." />
+            <marker date="1512463991820" expanded="true" signature="57114:57214" ph="..." />
+            <marker date="1512463991820" expanded="true" signature="57355:57661" ph="..." />
+            <marker date="1512463991820" expanded="true" signature="57374:57646" ph="..." />
+            <marker date="1512463991820" expanded="true" signature="57448:57626" ph="..." />
+            <marker date="1512463991820" expanded="true" signature="57488:57592" ph="..." />
+            <marker date="1512463991820" expanded="true" signature="57509:57570" ph="..." />
+            <marker date="1512463991820" expanded="true" signature="57712:57977" ph="..." />
+            <marker date="1512463991820" expanded="true" signature="57731:57962" ph="..." />
+            <marker date="1512463991820" expanded="true" signature="57764:57942" ph="..." />
+            <marker date="1512463991820" expanded="true" signature="57804:57908" ph="..." />
+            <marker date="1512463991820" expanded="true" signature="57825:57886" ph="..." />
+            <marker date="1512463991820" expanded="true" signature="58020:58326" ph="..." />
+            <marker date="1512463991820" expanded="true" signature="58039:58311" ph="..." />
+            <marker date="1512463991820" expanded="true" signature="58113:58291" ph="..." />
+            <marker date="1512463991820" expanded="true" signature="58153:58257" ph="..." />
+            <marker date="1512463991820" expanded="true" signature="58174:58235" ph="..." />
+            <marker date="1512463991820" expanded="true" signature="58377:58695" ph="..." />
+            <marker date="1512463991820" expanded="true" signature="58396:58680" ph="..." />
+            <marker date="1512463991820" expanded="true" signature="58482:58660" ph="..." />
+            <marker date="1512463991820" expanded="true" signature="58522:58626" ph="..." />
+            <marker date="1512463991820" expanded="true" signature="58543:58604" ph="..." />
+            <marker date="1512463991820" expanded="true" signature="58730:59036" ph="..." />
+            <marker date="1512463991820" expanded="true" signature="58749:59021" ph="..." />
+            <marker date="1512463991820" expanded="true" signature="58823:59001" ph="..." />
+            <marker date="1512463991820" expanded="true" signature="58863:58967" ph="..." />
+            <marker date="1512463991820" expanded="true" signature="58884:58945" ph="..." />
+            <marker date="1512463991820" expanded="true" signature="59088:59353" ph="..." />
+            <marker date="1512463991820" expanded="true" signature="59107:59338" ph="..." />
+            <marker date="1512463991820" expanded="true" signature="59140:59318" ph="..." />
+            <marker date="1512463991820" expanded="true" signature="59180:59284" ph="..." />
+            <marker date="1512463991820" expanded="true" signature="59201:59262" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dulong/video/utils/CharsetFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dulong/video/utils/JpushClientUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dulong/video/servlet/OnlineServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Config.Properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="37" lean-forward="true" selection-start-line="1" selection-start-column="37" selection-end-line="1" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/artifacts/ControlPhoneWeb_war_exploded/WEB-INF/classes/Config.Properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="37" lean-forward="true" selection-start-line="1" selection-start-column="37" selection-end-line="1" selection-end-column="37" />
           <folding />
         </state>
       </provider>
